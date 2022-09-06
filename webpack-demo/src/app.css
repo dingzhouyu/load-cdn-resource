@@ -1,0 +1,8 @@
+h1 {
+  color:red;
+  background: url('./big.png') bottom no-repeat;
+}
+
+:global(h2) {
+  color: blue;
+}
